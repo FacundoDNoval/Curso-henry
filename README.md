@@ -1,2 +1,2 @@
-# Curso-henry
-Repositorio de prueba, modulo 2 curso henry
+Prueba de como crear un reposotorio nuevo y poder clonarlo en nuestro escritorio
+
